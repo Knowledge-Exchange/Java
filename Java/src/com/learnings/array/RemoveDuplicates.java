@@ -1,4 +1,4 @@
-package com.learnings.operations.array;
+package com.learnings.array;
 
 public class RemoveDuplicates {
 

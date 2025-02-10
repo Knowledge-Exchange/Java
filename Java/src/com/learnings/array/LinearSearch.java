@@ -1,4 +1,4 @@
-package com.learnings.operations.array;
+package com.learnings.array;
 
 //Java code for linearly search x in arr[]. If x
 //is present then return its location, otherwise

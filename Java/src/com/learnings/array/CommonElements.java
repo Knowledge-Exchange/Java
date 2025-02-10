@@ -1,4 +1,4 @@
-package com.learnings.operations.array;
+package com.learnings.array;
 
 import java.util.HashSet;
 import java.util.Set;

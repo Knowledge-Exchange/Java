@@ -1,4 +1,4 @@
-package com.learnings.operations.array;
+package com.learnings.array;
 
 //Java program for implementation
 //of Bubble Sort

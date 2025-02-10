@@ -1,4 +1,4 @@
-package com.learnings.operations.array;
+package com.learnings.array;
 
 //Java implementation of iterative Binary Search
 

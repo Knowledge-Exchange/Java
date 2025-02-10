@@ -1,4 +1,4 @@
-package com.learnings.operations.string;
+package com.learnings.string;
 
 //Java program to check whether a string is a Palindrome using recursion
 public class PalindromeRecursive {

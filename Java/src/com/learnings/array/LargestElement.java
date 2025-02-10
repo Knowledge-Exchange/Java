@@ -1,4 +1,4 @@
-package com.learnings.operations.array;
+package com.learnings.array;
 
 //Java Program to find the largest element in 
 //array using iterative approach

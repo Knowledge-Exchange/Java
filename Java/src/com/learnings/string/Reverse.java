@@ -1,4 +1,4 @@
-package com.learnings.operations.string;
+package com.learnings.string;
 
 public class Reverse {
 	public static void main(String[] args) {
