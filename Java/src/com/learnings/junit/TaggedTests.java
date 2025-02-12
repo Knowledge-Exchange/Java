@@ -9,21 +9,21 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class TaggedTests {
 
   @Test
-  @Tag("fast")
-  void fastTest() {
-      assertTrue(true, "This is a fast test");
+  @Tag("dev")
+  void method1() {
+      System.out.println("Needs to be executed on dev only");
   }
 
   @Test
-  @Tag("slow")
-  void slowTest() {
-      assertTrue(true, "This is a slow test");
+  @Tag("prod")
+  void method2() {
+      System.out.println("Needs to be executed on prod only");
   }
 
   @Test
-  @Tag("fast")
-  @Tag("integration")
-  void fastIntegrationTest() {
-      assertTrue(true, "This is a fast integration test");
+  @Tag("dev")
+  @Tag("prod")
+  void method3() {
+      System.out.println("Needs to be executed on both dev and prod");
   }
 }
